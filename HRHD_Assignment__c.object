@@ -458,18 +458,7 @@
         <type>Text</type>
         <unique>false</unique>
     </fields>
-    <fields>
-        <fullName>Standard_Hours__c</fullName>
-        <externalId>false</externalId>
-        <label>Standard Hours</label>
-        <precision>4</precision>
-        <required>false</required>
-        <scale>0</scale>
-        <trackHistory>true</trackHistory>
-        <trackTrending>false</trackTrending>
-        <type>Number</type>
-        <unique>false</unique>
-    </fields>
+    
     <fields>
         <fullName>Term_Date__c</fullName>
         <description>Represents the term date of the Employee.</description>
